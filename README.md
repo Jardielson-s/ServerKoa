@@ -19,3 +19,10 @@ go to run instance and select the operating system image, select the machine pow
 ### after of creating the server on AWS
 
 ![alt text](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image2.jpeg)
+
+<p>
+now go connect with instance, for this click on the instance id, after click connect with instance, you will see this code:
+  ```
+  sudo ssh -i "keyAcess.pem" [name your manchine]
+  ```
+</p>
