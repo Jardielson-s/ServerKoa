@@ -52,6 +52,8 @@ now go connect with instance, for this click on the instance id, after click con
   
  ### terminal image
  
+ ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image10.jpeg)
+  
  ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image8.jpeg)
  
  <p> create code folder, then type git clone "link of github project":</p>
@@ -61,6 +63,12 @@ now go connect with instance, for this click on the instance id, after click con
  git clone https://github.com/Jardielson-s/ServerKoa.git # the machine already comes with git installed
  npm i -d pm2  # install pm2 as global dependent
  cd ServerKoa && cd src # go to the folder where the server.js file is.
+ pm2 start server.js # server management process
  ```
+ ### server management process image
  
+ ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image7.jpeg)
  
+ <p> Lastly, deploy test with insomin</p>
+ 
+ ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image9.jpeg)
