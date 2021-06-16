@@ -66,6 +66,10 @@ now go connect with instance, for this click on the instance id, after click con
  
  ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image7.jpeg)
  
- <p> Lastly, deploy test with insomin</p>
+ <p> Lastly, deploy test with insomin, for this take ip of manchine on AWS, but it doesn't have port 443, use:</p>
+ 
+ ```
+ http://100.26.236.212:3000/create # example of my machine's ip on AWS
+ ```
  
  ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image9.jpeg)
