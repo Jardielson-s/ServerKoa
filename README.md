@@ -15,4 +15,4 @@ npm start
 <p>
 go to run instance and select the operating system image, select the machine power, in the case t2.micro (free tier), put the tag name of Server and run the instance.
 </p>
-![image-1] (https://github.com/Jardielson-s/ServerKoa/blob/main/Captura%20de%20tela%20de%202021-06-15%2021-19-26.png)
+![alt text](https://github.com/Jardielson-s/ServerKoa/blob/main/Captura%20de%20tela%20de%202021-06-15%2021-19-26.png)
