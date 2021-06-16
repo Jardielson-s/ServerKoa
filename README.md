@@ -13,7 +13,7 @@ npm start
 ```
 ### create server on aws
 <p>
-go to run instance and select the operating system image, select the machine power, in the case t2.micro (free tier), put the tag name of Server and run the instance.
+go to run instance and select the operating system image, select the machine power, in the case t2.micro (free tier), put the tag name of Server, configure port 80 and 3000, and execute the instance.
 </p>
 
 ### after of creating the server on AWS
