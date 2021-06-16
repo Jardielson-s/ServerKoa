@@ -16,4 +16,5 @@ npm start
 go to run instance and select the operating system image, select the machine power, in the case t2.micro (free tier), put the tag name of Server and run the instance.
 </p>
 ### after of creating the server on AWS
+
 ![alt text](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image2.jpeg)
