@@ -9,7 +9,7 @@ router.get('/',(ctx, next) => {
 })
 .post('/create',(ctx, next) =>{
 
-    const { name, age } = ctx.request.body.name;
+    const { name, age } = ctx.request.body;
     
      ctx.body = 'hello ' + name + 'your age is ' + age + ' years'; 
 })
