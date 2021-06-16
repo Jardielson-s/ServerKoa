@@ -22,18 +22,23 @@ go to run instance and select the operating system image, select the machine pow
 
 <p>
 now go connect with instance, for this click on the instance id, after click connect with instance, you will see this code:</p>
+
   ```
   sudo ssh -i "keyAcess.pem" [name your manchine]
   ```
+  
   <p>open your terminal and enter code above, will have a question enter yes.</p>
   
   ###  coonnecting with the server on AWS
   
   ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image10.jpeg)
   
+  
   ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image4.jpeg)
   
+  
   <p>at the AWS machine terminal enter the code below:</p>
+  
   ```
   sudo apt-get upgrade
   sudo apt-get update
@@ -44,15 +49,18 @@ now go connect with instance, for this click on the instance id, after click con
   sudo node --version # check node version
   sudo npm --version # check npm version
   ```
+  
  ### terminal image
  
  ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image8.jpeg)
  
  <p> create code folder, then type git clone "link of github project":</p>
+ 
  ```
  mkdir code && cd code
  git clone https://github.com/Jardielson-s/ServerKoa.git # the machine already comes with git installed
  npm i -d pm2  # install pm2 as global dependent
  cd ServerKoa && cd src # go to the folder where the server.js file is.
  ```
+ 
  
