@@ -29,10 +29,7 @@ now go connect with instance, for this click on the instance id, after click con
   
   <p>open your terminal and enter code above, will have a question enter yes.</p>
   
-  ###  coonnecting with the server on AWS
-  
-  ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image10.jpeg)
-  
+  ###  coonnecting with the server on AWS  
   
   ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image4.jpeg)
   
@@ -52,6 +49,8 @@ now go connect with instance, for this click on the instance id, after click con
   
  ### terminal image
  
+ ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image10.jpeg)
+   
  ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image10.jpeg)
   
  ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image8.jpeg)
