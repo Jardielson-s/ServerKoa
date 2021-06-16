@@ -48,8 +48,6 @@ now go connect with instance, for this click on the instance id, after click con
   ```
   
  ### terminal image
- 
- ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image10.jpeg)
    
  ![alt line](https://github.com/Jardielson-s/ServerKoa/blob/main/Images/image10.jpeg)
   
